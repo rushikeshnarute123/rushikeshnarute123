@@ -18,8 +18,6 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- C
-- C++
 - Java
 - Python
 - JavaScript
@@ -55,16 +53,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshnarute123&layout=compact&theme=tokyonight" alt="languages" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-Here are some of my highlighted projects:
-
-- 🔹 Project Name 1 – Short description
-- 🔹 Project Name 2 – Short description
-- 🔹 Project Name 3 – Short description
 
 ---
 
