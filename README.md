@@ -16,25 +16,16 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- Java
-- Python
-- JavaScript
+Java | Python | JavaScript
 
 ### 🌐 Web Technologies
-- HTML
-- CSS
-- React.js
-- Node.js
-- Express.js
+HTML | CSS | React.js | Node.js | Express.js
 
 ### 🗄️ Databases
-- MySQL
-- MongoDB
+MySQL | MongoDB
 
 ### ⚙️ Tools & Platforms
-- Git & GitHub
-- VS Code
-- Postman
+Git & GitHub | VS Code | Postman
 
 ---
 
