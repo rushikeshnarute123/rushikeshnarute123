@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on improving my development skills
 - 🌱 I’m learning new technologies and building real-world projects
 - 💡 Interested in Web Development, Software Development & Open Source
-- 📫 How to reach me: your-email@example.com
+- 📫 How to reach me: rushikeshnarute3135@gmail.com
 - ⚡ Fun fact: I love solving problems and building practical solutions
 
 ---
@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rushikeshnarute123&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats-hd4pufdgk-rushikeshnarute123s-projects.vercel.app/api?username=rushikeshnarute123&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
@@ -49,15 +49,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushikeshnarute123&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://github-readme-stats-hd4pufdgk-rushikeshnarute123s-projects.vercel.app/api/top-langs/?username=rushikeshnarute123&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/your-link
-- 📧 Email: your-email@example.com
+- 💼 LinkedIn: https://www.linkedin.com/in/rushikesh-narute-98931825b
+- 📧 Email: rushikeshnarute3135@gmail.com
 
 ---
 
