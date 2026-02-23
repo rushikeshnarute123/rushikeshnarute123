@@ -40,17 +40,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-hd4pufdgk-rushikeshnarute123s-projects.vercel.app/api?username=rushikeshnarute123&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rushikeshnarute123&theme=tokyonight" alt="streak" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-hd4pufdgk-rushikeshnarute123s-projects.vercel.app/api/top-langs/?username=rushikeshnarute123&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
